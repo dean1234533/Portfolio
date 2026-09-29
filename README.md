@@ -1,16 +1,56 @@
-# React + Vite
+# Developer portfolio (React, v1)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**A single-page React portfolio that showcases my production projects, including Bookrightly, Js-Grw-Up, Smart Life, Bella Flor Jewellery, and more, along with a "Define → Build → Ship" process section.**
 
-Currently, two official plugins are available:
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+> **This is an earlier version of my portfolio.** The current site is
+> [dean-da-dev.co.uk](https://www.dean-da-dev.co.uk/) and its source is in
+> [deanburt-dev](https://github.com/dean1234533/deanburt-dev).
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Screenshots
 
-## Expanding the ESLint configuration
+<!-- Add images to docs/screenshots/ and uncomment. -->
+<!-- ![Portfolio homepage](docs/screenshots/home.png) -->
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+_Screenshots coming soon._
+
+---
+
+## Features
+
+- **Project showcase** with descriptions and images of live, production projects:
+  - [Bookrightly](https://github.com/dean1234533/Booking-System): booking SaaS for UK service businesses
+  - [Js-Grw-Up](https://github.com/dean1234533/co-parenting): co-parenting coordination app
+  - [Smart Life](https://github.com/dean1234533/smart-life-app): AI-powered personal dashboard
+  - [DB's AI Trainer](https://github.com/dean1234533/PT-AI_Helper): AI personal coaching studio
+  - [Bella Flor Jewellery](https://github.com/dean1234533/Bella-Flor-Jewellery): boutique e-commerce store
+  - Payment Card Services: a lead-generation site for a payments provider
+- A **"Define → Build → Ship"** process section
+- A responsive design built with Tailwind CSS 4
+
+## Tech stack
+
+React 19, Vite, Tailwind CSS 4, and ESLint.
+
+## Run locally
+
+```bash
+git clone https://github.com/dean1234533/Portfolio.git
+cd Portfolio
+npm install
+npm run dev
+```
+
+---
+
+## Author
+
+Built by **Dean Da Dev**, a UK full-stack developer building web apps, websites,
+and AI tools.
+
+🌐 [dean-da-dev.co.uk](https://www.dean-da-dev.co.uk/) · 💼 [More projects](https://www.dean-da-dev.co.uk/portfolio) · 🐙 [GitHub](https://github.com/dean1234533)
